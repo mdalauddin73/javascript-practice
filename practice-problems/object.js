@@ -1,3 +1,5 @@
+//Object
+
 const shoppingCart = {
     processor: 2,
     motherboard: 2,

@@ -1,4 +1,5 @@
-// find the height
+// find the smallest number
+
 function minInArray(numbers) {
     let smallest = numbers[0];
     for (let i = 0; i < numbers.length; i++) {

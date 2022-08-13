@@ -1,3 +1,5 @@
+// Sum object property values
+
 const shoppingCart = [
     { name: 'shoe', price: 1200 },
     { name: 'shirt', price: 2200 },

@@ -1,3 +1,6 @@
+// if else statement
+// =============================================
+
 // const moon = 'Alauddin';
 // if (moon === "Alauddin") {
 //     console.log('I love you');

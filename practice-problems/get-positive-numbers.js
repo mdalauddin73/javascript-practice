@@ -1,3 +1,6 @@
+
+// Get the positive nubers from an Array
+
 const myNumbers = [2, 3, 60, 72, -1, 5, -4, -10, 50, -100];
 
 function getPositiveNumbers(numbers) {

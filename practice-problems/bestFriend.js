@@ -1,3 +1,5 @@
+// Best Friends
+
 const friends = [
     'prince',
     'morshed',

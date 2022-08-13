@@ -1,3 +1,6 @@
+
+// Multiplication --- Numta
+
 function multiplication(multyby) {
     for (i = 1; i <= 10; i++) {
         // const multyBy = 13;

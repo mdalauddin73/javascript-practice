@@ -1,4 +1,5 @@
 // Simple Interest = (P x T x R)/100 
+
 function simpleInterst(p, t, r) {
     const interestAmmount = (p * t * r) / 100;
     return interestAmmount;

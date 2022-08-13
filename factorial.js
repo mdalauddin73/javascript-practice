@@ -1,3 +1,6 @@
+
+// Factorial
+
 function getFactorial(number) {
     let num = 1;
     let result = 1;

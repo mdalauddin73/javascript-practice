@@ -1,3 +1,5 @@
+// find the leap years
+
 function getLeapYearFromArray(years) {
     const leapYears = [];
     for (let i = 0; i < years.length; i++) {

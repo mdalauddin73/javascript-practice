@@ -1,3 +1,5 @@
+// find total products cost
+
 const shoppingCart = [
     { name: 'shoe', price: 1200, qty: 2 },
     { name: 'shirt', price: 2200, qty: 5 },

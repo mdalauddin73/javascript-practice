@@ -1,3 +1,5 @@
+// Remove dublicate
+
 const names = ['babul', 'kabul', 'abul', 'sabul', 'kabul', 'babul', 'badal', 'badal'];
 function removeDuplicate(names) {
     const uniqueNames = [];

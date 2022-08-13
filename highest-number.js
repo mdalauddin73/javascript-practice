@@ -1,3 +1,6 @@
+
+// Find the highest number
+
 var num1 = 200;
 var num2 = 5000;
 var num3 = 800;

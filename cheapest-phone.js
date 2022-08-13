@@ -1,3 +1,5 @@
+//Find the cheapest phone
+
 const phones = [
     { name: 'Samsung', camera: 12, storage: '32gb', price: 36000, color: 'silver' },
     { name: 'Walton', camera: 12, storage: '32gb', price: 22000, color: 'silver' },

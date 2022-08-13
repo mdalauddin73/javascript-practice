@@ -1,3 +1,5 @@
+// Sum of an array
+
 function getSumOfAnArray(numbers) {
     let sum = 0;
     // const oddNumbers = [];

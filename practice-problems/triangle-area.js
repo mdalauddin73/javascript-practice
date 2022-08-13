@@ -1,4 +1,5 @@
 //JavaScript Program To Calculate The Area of a Triangle
+
 function getTriangleArea(a, b, c) {
     if (a < 0 || b < 0 || c < 0 || (a + b <= c) || a + c <= b || b + c <= a) {
         console.log("Not a valid triangle");

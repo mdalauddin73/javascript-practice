@@ -1,3 +1,5 @@
+// Wood (CFT) calculation
+
 function woodCalculator(chairQty, tableQty, bedQty) {
     const perChairWood = 3;
     const perTableWood = 10;

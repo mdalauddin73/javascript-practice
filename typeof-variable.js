@@ -1,3 +1,5 @@
+// Variables
+
 const name = 'Alauddin';
 const age = 48;
 const isMarried = true;
