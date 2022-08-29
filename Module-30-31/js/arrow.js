@@ -1,4 +1,4 @@
-// array.js
+// arrow.js
 
 const add = (a, b) => a + b;
 const result = add(20, 30);
@@ -45,3 +45,4 @@ console.log(alauddin);
 
 alauddin.startSupportSession('9:00');
 alauddin.createQuiz(60);
+
